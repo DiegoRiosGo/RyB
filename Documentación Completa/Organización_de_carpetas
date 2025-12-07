@@ -1,0 +1,48 @@
+Metodología Híbrida
+
+FASE 1 — INICIO (Metodología Tradicional)
+
+  -Acta de Constitución: Propósito, alcance inicial, stakeholders y presupuesto.
+  -Documento de Visión: Problema, solución, propuesta de valor y usuarios.
+
+FASE 2 — PLANIFICACIÓN (Metodología Tradicional + insumos para Ágil)
+
+  -Plan del Proyecto: Metodología, alcance, calidad y estrategia híbrida.
+    Incluye subdocumentos:
+    
+        -Cronograma (Gantt)
+        -Presupuesto
+        -WBS / EDT
+
+  -ERS – Especificación de Requisitos: Requisitos funcionales y no funcionales.
+  -Registro de Riesgos
+  -Matriz RACI
+  -Flujo de Caja
+
+FASE 3 — DESARROLLO (Ágil)
+
+  -Product Backlog
+  -Historias de Usuario + Criterios de Aceptación
+  -Sprint Backlog
+  -Burndown Charts
+
+FASE 4 — CONSTRUCCIÓN / TECNOLOGÍA
+
+  -DAS – Documento de Arquitectura: Arquitectura lógica/física, componentes, UML, modelo de datos, tecnologías.
+  -Documentación Técnica Complementaria: Endpoints, diagramas, estructura de Django, etc.
+
+FASE 5 — VALIDACIÓN
+
+  -Plan de Pruebas
+  -Evidencias de Pruebas: unitarias, integración, funcionales, aceptación.
+
+FASE 6 — CIERRE (Metodología Tradicional)
+
+  -Documentos finales del proyecto.
+  -Documento de Cierre: Logros, lecciones aprendidas, cumplimiento del alcance.
+
+Carpetas adicionales solicitadas
+
+  -Daily Meetings: Registro de todos los daily del proyecto.
+  -Mockups: Diseños, wireframes y pantallas del sistema.
+  -Presentación + Video Promocional: Material final para exposición y contenido visual del proyecto.
